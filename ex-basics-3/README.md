@@ -1,4 +1,9 @@
 # Greet CLI
+## Live demo (asciinema)
+Watch the CLI demo:
+- [Asciinema link](https://asciinema.org/a/4UZgeJ50Y0eAad7d5q4Pb0pgW)
+
+<a href="https://asciinema.org/a/4UZgeJ50Y0eAad7d5q4Pb0pgW" target="_blank"><img src="https://asciinema.org/a/4UZgeJ50Y0eAad7d5q4Pb0pgW.svg" /></a>
 
 A modern, professional greeting CLI application that says hello to users with beautiful rich colored output, powered by Typer.
 
